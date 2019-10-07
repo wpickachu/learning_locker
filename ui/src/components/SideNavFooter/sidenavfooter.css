@@ -1,0 +1,9 @@
+.sidenav-footer {
+  color: #999;
+}
+
+@media screen and (max-height: 765px) {
+  .sidenav-footer {
+    width: 150px;
+  }
+}
